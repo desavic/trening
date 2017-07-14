@@ -1,0 +1,18 @@
+body {
+  background-color: #F7FAAA;
+}
+
+h1,h3,p,img,div {
+  text-align: center;
+  padding:20px;
+}
+h1{
+	color: orange;
+}
+
+h3{
+	color: red;
+}
+p{
+	color:green;
+}
