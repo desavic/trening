@@ -1,1 +1,2 @@
-treci komentar
+//treci komentar
+Pridodat i drugi red u datoteci
