@@ -1,0 +1,1 @@
+pridodat ovaj fajl da vidimo kako se ponasa sa gitbash
