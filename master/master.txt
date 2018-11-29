@@ -1,0 +1,1 @@
+fajl koji zelimo da sajrijemo sa .gitignore
